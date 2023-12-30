@@ -33,10 +33,12 @@ own risk and ONLY enter PID's you're positive you want to close.)
 
 
 ## ERROR HANDLING: 
-Should you enter an invalid extension/process name or the process entered requires higher permissions, a fail safe has been implimented to display and error message stating (2.0)"Error: Invalid PID entered. Task with PID %PID% does not exist." or (1.0) "Failed to terminate the process "%process%.%extension%". Please check the process name and extension, and make sure you have necessary permissions. E.g. Admin." respectively.
+Should you enter an invalid extension/process name or the process entered requires elevated permissions, a fail safe has been implimented to display and error message stating:
 
-You will get the following message.
-Failed to terminate the process "discordd.exe". Please check the process name and extension, and make sure you have necessary permissions. E.g. Admin.
+(2.0)"Error: Invalid PID entered. Task with PID %PID% does not exist." (E.g. Error: Invalid PID entered. Task with PID 8000 does not exist."
+
+(1.0) "Failed to terminate the process "%process%.%extension%". Please check the process name and extension, and make sure you have necessary permissions. E.g. Admin." (E.g. Failed to terminate the process Discordd.exe. Please check the process name and extension, and make sure you have necessary permissions. E.g. Admin.)
+
 
 ## Disclaimer
 Use this tool at your own risk. Always ensure you have saved all your work before performing operations that could potentially interrupt your workflow. Closing the wrong process may cause unsaved data to be lost, and/or cause corruption, so Please be aware of what process you are going to be closing when entering the process name and extention. This batch file was written for personal utility and for educational/experience purposes only. Do not mis-use this file. I do not hold any responsibility of the use/misuse of this script.
