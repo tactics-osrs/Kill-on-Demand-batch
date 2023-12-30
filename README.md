@@ -40,19 +40,22 @@ Failed to terminate the process "discordd.exe". Please check the process name an
 
 ## Disclaimer
 Use this tool at your own risk. Always ensure you have saved all your work before performing operations that could potentially interrupt your workflow. Closing the wrong process may cause unsaved data to be lost, and/or cause corruption, so Please be aware of what process you are going to be closing when entering the process name and extention. This batch file was written for personal utility and for educational/experience purposes only. Do not mis-use this file. I do not hold any responsibility of the use/misuse of this script.
-
 The code is open-source, of course! As it's a .bat file, please save it as such if you are going to copy the raw code to your notepad.
 
-
-
-DISCLAIMER: This batch file was written for personal utility and for educational/experience purposes only. Do not mis-use this file. I do not hold any responsibility of the use/misuse of this script.
+## Important
 You may need to run this as administrator to terminate some processes.
 
-The code is open-source, of course! As it's a .bat file, please save it as such if you are going to copy the raw code to your notepad.
+
 
 ## Preview of KoD.Bat
 ![image](https://github.com/tactics-osrs/Kill-on-Demand-batch/assets/76490725/2a9b5316-88ce-4121-b353-45a277ae4b5f)
-Please note the second version of this (2.0) will display a list of current running process utilizing tasklist, prior to prompting the user to input process identification number (PID) for more precise application termination.(Which is also displayed next to the processes in the list.
-![image](https://github.com/tactics-osrs/Kill-on-Demand-batch/assets/76490725/db7d8ecf-670c-4df6-b7f1-c2fbcbc62e6b)
+
+## Preview of KoD2.0.Bat
+(2.0) will display a list of current running process utilizing tasklist, prior to prompting the user to input process identification number (PID) for more precise application termination.(Which is also displayed next to the processes in the list.
+
+![image](https://github.com/tactics-osrs/Kill-on-Demand-batch/assets/76490725/fdbb2324-89bb-468e-83da-07598d6caeb6)
+
+In this preview, "8000" was entered, signalling KoD to close "Discord.exe" with the PID of "8000"
+
 
 
