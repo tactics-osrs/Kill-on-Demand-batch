@@ -37,7 +37,7 @@ Should you enter an invalid extension/process name or the process entered requir
 
 (2.0)"Error: Invalid PID entered. Task with PID %PID% does not exist." (E.g. Error: Invalid PID entered. Task with PID 8000 does not exist."
 
-(1.0) "Failed to terminate the process "%process%.%extension%". Please check the process name and extension, and make sure you have necessary permissions. E.g. Admin." (E.g. Failed to terminate the process Discordd.exe. Please check the process name and extension, and make sure you have necessary permissions. E.g. Admin.)
+(1.0) "Failed to terminate the process "%process%.%extension%". Please check the process name and extension, and make sure you have necessary permissions." (E.g. Failed to terminate the process Discordd.exe. Please check the process name and extension, and make sure you have necessary permissions.)
 
 
 ## Disclaimer
