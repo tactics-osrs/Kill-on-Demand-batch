@@ -52,5 +52,7 @@ The code is open-source, of course! As it's a .bat file, please save it as such 
 
 ## Preview of KoD.Bat
 ![image](https://github.com/tactics-osrs/Kill-on-Demand-batch/assets/76490725/2a9b5316-88ce-4121-b353-45a277ae4b5f)
-Please note the second version of this (2.0) will display a list of current running process, prior to prompting the user to input process identification number (PID) for more precise application termination.
+Please note the second version of this (2.0) will display a list of current running process utilizing tasklist, prior to prompting the user to input process identification number (PID) for more precise application termination.(Which is also displayed next to the processes in the list.
+![image](https://github.com/tactics-osrs/Kill-on-Demand-batch/assets/76490725/db7d8ecf-670c-4df6-b7f1-c2fbcbc62e6b)
+
 
