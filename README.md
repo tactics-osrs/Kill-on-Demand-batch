@@ -33,7 +33,7 @@ own risk and ONLY enter PID's you're positive you want to close.)
 
 
 ## ERROR HANDLING: 
-Should you enter an invalid extension/process name or the process entered requires higher permissions, a fail safe has been implimented.
+Should you enter an invalid extension/process name or the process entered requires higher permissions, a fail safe has been implimented to display and error message stating (2.0)"Error: Invalid PID entered. Task with PID %PID% does not exist." or (1.0) "Failed to terminate the process "%process%.%extension%". Please check the process name and extension, and make sure you have necessary permissions. E.g. Admin." respectively.
 
 You will get the following message.
 Failed to terminate the process "discordd.exe". Please check the process name and extension, and make sure you have necessary permissions. E.g. Admin.
