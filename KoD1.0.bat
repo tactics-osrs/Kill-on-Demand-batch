@@ -8,7 +8,8 @@ if !errorlevel! == 0 (
 	echo The process "%process%.%extension%" has been terminated successfully.   Written by Tactics.
 	goto Start
 ) else (
-	echo Failed to terminate the process "%process%.%extension%". Please check the process name and extension, and make sure you have necessary permissions. E.g. Admin.
+	echo Failed to terminate the process "%process%.%extension%". Please check the process name and extension.
+	echo Make sure you have necessary permissions. E.g. Admin.
 	goto Start
 )
 endlocal
