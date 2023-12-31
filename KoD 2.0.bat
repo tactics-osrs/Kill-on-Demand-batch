@@ -7,6 +7,7 @@ TASKKILL /PID %PID%
 IF ERRORLEVEL 1 (
     echo Error: Invalid PID entered. Task with PID %PID% does not exist.
 	echo Please check the list and enter a valid PID.
+	pause
     goto Start
 ) ELSE (
     echo Task with PID %PID% has been terminated.    Written by Tactics.
