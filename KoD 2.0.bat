@@ -5,7 +5,7 @@ TASKLIST
 set /p PID="Please enter the PID of the application you want to close: "
 TASKKILL /PID %PID%
 IF ERRORLEVEL 1 (
-    echo Error: Invalid PID entered. Task with PID %PID% does not exist.
+    echo ERROR: Invalid PID entered. Task with PID %PID% does not exist.
 	echo Please check the list and enter a valid PID.
 	pause
     goto Start
