@@ -57,6 +57,8 @@ You may need to run this as administrator to terminate some processes.
 
 In this preview, "discord" was entered as the process, and "exe" was entered as the extention, as a result, ALL processes associated with discord.exe were closed. 
 
+Please note, if you enter incorrect process name("discord.exe" instead of "discord") an error message will appear, prompting the user to enter the process.extention
+
 ## Preview of KoD2.0.Bat
 (2.0) will display a list of current running process utilizing tasklist, prior to prompting the user to input process identification number (PID) for more precise application termination.(Which is also displayed next to the processes in the list.
 
