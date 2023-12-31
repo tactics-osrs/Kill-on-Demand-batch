@@ -1,4 +1,6 @@
-I have released 2 versions of this. 
+## Kill On Demand (1&2)
+
+I have released 2 versions of this. Below are the differences in the two.
 
 ## Version 1
 The first version will close ALL of the processes related to the input process name and extention. E.G. "Discord.exe" will close all Processes related to discord.
