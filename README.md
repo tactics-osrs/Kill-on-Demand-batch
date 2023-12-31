@@ -52,7 +52,10 @@ You may need to run this as administrator to terminate some processes.
 
 
 ## Preview of KoD.Bat
-![image](https://github.com/tactics-osrs/Kill-on-Demand-batch/assets/76490725/2a9b5316-88ce-4121-b353-45a277ae4b5f)
+(1.0) Will ask the user to input the process name, then the extention.It will then terminate ALL applications with that name.extention.
+![image](https://github.com/tactics-osrs/Kill-on-Demand-batch/assets/76490725/ff945fa8-c8e3-4bf4-85a9-126b10d23a3e)
+
+In this preview, "discord" was entered as the process, and "exe" was entered as the extention, as a result, ALL processes associated with discord.exe were closed. 
 
 ## Preview of KoD2.0.Bat
 (2.0) will display a list of current running process utilizing tasklist, prior to prompting the user to input process identification number (PID) for more precise application termination.(Which is also displayed next to the processes in the list.
