@@ -13,3 +13,5 @@ IF ERRORLEVEL 1 (
     echo Task with PID %PID% has been terminated.    Written by Tactics.
 )
 pause
+
+goto Start
