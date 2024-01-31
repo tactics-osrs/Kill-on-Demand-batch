@@ -1,3 +1,10 @@
+/**
+ * Script Name: KoD 2.0
+ * Date Written: December 31, 2024; Updated January 31, 2024
+ * Written By: Tactics
+ */
+
+
 :Start
 TITLE Kill On Demand 2.0
 @echo off
