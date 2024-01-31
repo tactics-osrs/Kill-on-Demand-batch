@@ -1,8 +1,7 @@
-/**
- * Script Name: KoD 2.0
- * Date Written: December 31, 2024; Updated January 31, 2024
- * Written By: Tactics
- */
+ REM Script Name: KoD 2.0
+ REM Date Written: December 31, 2024; Updated January 31, 2024
+ REM Written By: Tactics
+ 
 
 
 :Start
